@@ -1,0 +1,19 @@
+{
+    "name": "enalquiler/instanciate",
+    "description": "A high order function to instanciate classes passing parameters",
+    "type": "library",
+    "autoload": {
+        "files": ["src/functions.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Soronellas",
+            "email": "csoronellas@enalquiler.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
